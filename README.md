@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasim Shaikh</h1>
-<h3 align="center"> AI | Machine learning  | Deep learning |NLP | Python | Computer Vision | Data Science |Researcher</h3>
+<h3 align="center"> AI | Machine learning  | Deep learning | NLP | Python | Computer Vision | Data Science | Researcher</h3>
 
 - 🌱 I’m currently learning **Computer Vision**
 
