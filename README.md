@@ -2,8 +2,9 @@
   <img alt="Coding" width="100%" src="https://media.geeksforgeeks.org/wp-content/uploads/20230911173805/What-is-Artiificial-Intelligence(AI).webp">
   <h1>Hi there! 👋 I'm Vasim Shaikh</h1>
   <h3>Passionate about AI, Generative-AI, LLM, Machine Learning, and Natural Language Processing</h3>
-  <p>Enthusiastic about solving complex problems and creating innovative solutions. Experienced in:</p>
+  <p>Enthusiastic about solving complex problems and creating innovative solutions.</p>
   <ul align="left">
+    <p>Experienced in:</p>
     <li>🤖 AI and Generative-AI</li>
     <li>💻 Python, Computer Vision</li>
     <li>📊 Data Science</li>
